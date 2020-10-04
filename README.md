@@ -38,6 +38,6 @@ I’d love to combine my passion for learning and developing with my software de
 
 
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=payalbhandwalkar&theme=tokyonight&hide_langs_below=10" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=payalbhandwalkar&show_icons=true&theme=tokyonight&line_height=35" alt="Payal's github stats" /> 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=payalbhandwalkar&show_icons=true&theme=tokyonight&line_height=32" alt="Payal's github stats" /> 
 
 
