@@ -22,7 +22,7 @@ I’d love to combine my passion for learning and developing with my software de
 **Talking about Personal Stuffs:**
 
 
-- 🌱 I’m currently learning Java; 
+- 🌱 I’m currently learning Android Development; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: bhandwalkar.payal@gmail.com;
 
